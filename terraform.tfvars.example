@@ -1,0 +1,11 @@
+payment_card_type      = "Visa"
+payment_card_last_four = "1234"
+
+# optional overrides
+# subscription_name   = "example-redis-subscription"
+# database_name       = "example-redis-database"
+# aws_region          = "us-east-1"
+# deployment_cidr     = "10.0.0.0/24"
+# dataset_size_in_gb  = 3
+# ops_per_second      = 3000
+# data_persistence    = "aof-every-second"
